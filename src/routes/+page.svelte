@@ -21,7 +21,7 @@
 
 <svelte:head>
 	<script
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAzojPIeyAlqg8bHprYfv_eDbRBZ2t6m2U&callback=Function.prototype"
+		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4meKhRVLsdX3iyjDOOdBMmwi-PDFh1ss&callback=Function.prototype"
 	>
 	</script>
 </svelte:head>
