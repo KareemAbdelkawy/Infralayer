@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"d850fb8a5b53a5c39dcf580c43324e5d","lockfileHash":"1676b6ea340b649c5ca906f9423ea5cc","guessedImports":["$app","svelte","@sveltejs/adapter-netlify","__GENERATED__","@builder.io/partytown","devalue","@sveltejs/kit"],"guessedImportsHash":"b86b04e94988bd569b77c9d558e75aaa"}}}
