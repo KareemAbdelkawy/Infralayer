@@ -11,6 +11,3 @@
 - Used local storage to support presistent client side storage.
 
 - local storage is a synchronous API meaining that it'll block the browser main thread if a huge amount of data is being stored, so in order to enhance the user experience, I made use of the partytown library to offload the pin location to a separate service worker.
-
-
-

@@ -1,4 +1,4 @@
-<script type = "text/partytown">
+<script type="text/partytown">
 	import { onMount } from 'svelte';
 	import { getPinLocation } from './utils.js';
 
@@ -19,8 +19,7 @@
 		google.maps.event.addListener(map, 'dragend', function () {
 			const center = map.getCenter(); // Get the new center
 			// save the new location
-			localStorage.setItem('pinLocation', JSON.stringify({ lat:   
-      center.lat(), lng: center.lng() }));
+			localStorage.setItem('pinLocation', JSON.stringify({ lat: center.lat(), lng: center.lng() }));
 		});
 	});
 </script>

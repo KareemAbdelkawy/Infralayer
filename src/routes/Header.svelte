@@ -8,7 +8,7 @@
 
 <div class="bg-amber-50">
 	<div>
-		<nav class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center ">
+		<nav class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center">
 			<div class="flex items-center justify-between">
 				<a class="text-xl font-bold text-gray-800 md:text-2xl hover:text-blue-400" href="#"
 					>Infralayer
