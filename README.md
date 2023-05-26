@@ -13,6 +13,8 @@ npm create svelte@latest
 # create a new project in my-app
 npm create svelte@latest my-app
 ```
+-If you want to try a live version of this application deployed on netlify you can use this URL:
+https://master--melodic-taiyaki-aca2d5.netlify.app/
 
 ## Developing
 
