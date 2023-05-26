@@ -1,3 +1,5 @@
+# You will need to use ur API key to be able to use the google map
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
