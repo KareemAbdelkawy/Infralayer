@@ -1,20 +1,13 @@
-# You will need to use ur API key to be able to use the google map
+# You will need to use your API key to be able to use the google map
+
+## Description 
+This is an interface similar to the main screen of a ride-hailing app, like Uber created using Sveltekit, Tailwindcss, using Local Storage as data storage and the Partytown library to offload data storage.
 
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 -If you want to try a live version of this application deployed on netlify you can use this URL:
 https://master--melodic-taiyaki-aca2d5.netlify.app/
 
