@@ -11,3 +11,11 @@ export const getPinLocation = () => {
 	}
 	return [lat ?? -34.397, lng ?? 150.644];
 };
+
+export const debounce = (func, timeout = 300) => {
+  let timer;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => { func.apply(this, args); }, timeout);
+  };
+}
